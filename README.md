@@ -1,4 +1,4 @@
-# StackVSQueue
+# Stack VS Queue
 
 ### STACK
 ![stackimg](https://user-images.githubusercontent.com/24876345/104253116-13a10480-54b7-11eb-8c06-ff38c4299063.png)
